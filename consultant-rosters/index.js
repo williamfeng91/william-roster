@@ -13,7 +13,7 @@ class Consultants extends React.Component {
   state = {
     consultants: [],
     shortlist: [],
-    searchString: ""
+    searchString: "test"
   };
 
   getData = async () => {
